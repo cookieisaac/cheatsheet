@@ -2,7 +2,7 @@
 git init 
 
 git config --global user.name "Ike Ma"
-git config --global user.email cookieisaac.zju@gmail.com
+git config --global user.email myemail@gmail.com
 git config --list
 
 #Stage files for the commit
